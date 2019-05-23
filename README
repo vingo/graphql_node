@@ -1,3 +1,14 @@
-exec steps
+
+
+执行流程
 npm i
 npm run server
+
+实现功能
+1. 搜索静态mock 数据
+
+后续功能
+1. 基于DB动态数据
+2. 支持自定义queryType
+3. 运用到react
+
