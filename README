@@ -1,0 +1,3 @@
+exec steps
+npm i
+npm run server
